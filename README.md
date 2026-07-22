@@ -14,6 +14,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uzair-furqan&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+[![](https://komarev.com/ghpvc/?username=uzair-furqan)](https://visitcount.itsvg.in)
 
 ---
 
