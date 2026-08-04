@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://instagram.com/its_uzair_furqan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" draggable="false" />
   </a>
   <a href="https://linkedin.com/in/uzairfurqan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
