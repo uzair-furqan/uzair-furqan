@@ -40,7 +40,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" draggable="false" />
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/>
